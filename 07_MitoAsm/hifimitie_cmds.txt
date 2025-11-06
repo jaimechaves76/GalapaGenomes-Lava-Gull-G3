@@ -1,0 +1,5 @@
+# Aves taxid 8782 used for mitogenome search and CR ending flank info
+
+hifimitie init 8782 /home/jmartin/LavaGull/reads/04_dorado_correct/lavagull_trim_filt_corr.fasta
+
+hifimitie run -t 96
