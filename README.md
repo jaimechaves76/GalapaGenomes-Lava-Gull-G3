@@ -6,4 +6,5 @@ These codes were used for generating the genome of the Lava Gull, as reported in
 Jessica Martin, Alice Skehel, Athena Lam, Gabriela Pozo, James B. Henderson, Vera de Ferran, John Dumbacher, Jaime A. Chaves
 
 Publication and Genome access details here 10.1093/g3journal/jkag004
+Genome browser https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_053573735.1
 
